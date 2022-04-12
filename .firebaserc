@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "exo-g-test"
-  }
+    "default": "exo-g-test",
+    "staging": "exo-g-staging"
+  },
+  "targets": {}
 }
