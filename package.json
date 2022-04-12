@@ -1,7 +1,7 @@
 {
   "name": "quality-dashboard",
   "version": "0.1.0",
-  "homepage": "https://guilherme-am.github.io/exo-g",
+  "homepage": "https://github.com/guilherme-am/exo-g.git",
   "private": true,
   "dependencies": {
     "@fontsource/ibm-plex-sans": "^4.5.7",
