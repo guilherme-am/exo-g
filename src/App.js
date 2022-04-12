@@ -17,7 +17,7 @@ const App = () => {
         margin: 0
       }}> EXO.G Portal, cooming soon.</h1>
       <p> an EXO Innovation Sustainability Project </p>
-      <img src={pic}></img>
+      <img src={pic} alt="exo logo"></img>
     </div>
   )
 }
